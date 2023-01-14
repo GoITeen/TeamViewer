@@ -1,6 +1,8 @@
 Крок 1.
 
-Переходимо за посиланням https://www.teamviewer.com/en-us/
+Переходимо за посиланням : https://www.teamviewer.com/en-us/ якщо у вас Windows
+
+Переходимо за посиланням : https://www.teamviewer.com/en-us/download/mac-os/ якщо у вас МacOS
 
 Натискаємо «Download for free» 
 
